@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on dobrucki</title>
+    <link>http://dobrucki.net/posts/</link>
+    <description>Recent content in Posts on dobrucki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2022 00:47:04 +0200</lastBuildDate><atom:link href="http://dobrucki.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://dobrucki.net/posts/test-post/</link>
+      <pubDate>Wed, 13 Jul 2022 00:47:04 +0200</pubDate>
+      
+      <guid>http://dobrucki.net/posts/test-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
