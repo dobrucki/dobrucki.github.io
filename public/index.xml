@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>dobrucki</title>
-    <link>http://dobrucki.net/</link>
-    <description>Recent content on dobrucki</description>
+    <title>dobrucki.net</title>
+    <link>https://dobrucki.net/</link>
+    <description>Recent content on dobrucki.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 00:47:04 +0200</lastBuildDate><atom:link href="http://dobrucki.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 15:41:19 +0200</lastBuildDate><atom:link href="https://dobrucki.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>http://dobrucki.net/posts/test-post/</link>
-      <pubDate>Wed, 13 Jul 2022 00:47:04 +0200</pubDate>
+      <title>First Test</title>
+      <link>https://dobrucki.net/projects/first-test/</link>
+      <pubDate>Wed, 13 Jul 2022 15:41:19 +0200</pubDate>
       
-      <guid>http://dobrucki.net/posts/test-post/</guid>
+      <guid>https://dobrucki.net/projects/first-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Test</title>
+      <link>https://dobrucki.net/posts/first-test/</link>
+      <pubDate>Wed, 13 Jul 2022 15:41:02 +0200</pubDate>
+      
+      <guid>https://dobrucki.net/posts/first-test/</guid>
       <description></description>
     </item>
     
