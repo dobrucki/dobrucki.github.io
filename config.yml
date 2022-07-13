@@ -1,0 +1,33 @@
+baseURL: 'https://dobrucki.net/'
+languageCode: 'en-us'
+title: 'dobrucki.net'
+theme: 'PaperMod'
+
+menu:
+  main:
+    - identifier: 'posts'
+      name: 'Posts'
+      url: '/posts/'
+      weight: 10
+    - identfier: 'projects'
+      name: 'Projects'
+      url: '/projects/'
+      weight: 20
+
+params:
+  hideFooter: true
+
+  profileMode:
+    enabled: true
+    title: 'Jędrzej Dobrucki'
+    subtitle: |
+      I'm a passionate software engineer with a love for distributed and real-time systems.
+      Currently I'm working as a Java Developer for NetGuardians where we build a solution that helps financial 
+      institutions to detect and prevent frauds.
+
+  
+  socialIcons:
+    - name: 'github'
+      url: 'https://github.com/dobrucki'
+    - name: 'linkedin'
+      url: 'https://linkedin.com/in/jdobrucki'
